@@ -1,3 +1,4 @@
-# Rhythm-Game
-# JAVA
-# refered to 
+## Rhythm-Game
+* used Java
+* refered to DongBinna
+
